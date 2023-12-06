@@ -3,11 +3,11 @@
 
 <img align="right" width="400px" margintop="7px" src="https://camo.githubusercontent.com/683e2187241c641430216c864ce93fc5a0e0dfb232c5a01d1c54b54d63aa8cb2/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f70726f6772616d6d65722e676966" alt="Coding boy">
 
-- 🔭 I’m currently working on **FarmHaven**
+- 🔭 I’m currently working on **FarmHaven** project.
 
 - 🌱 I’m currently learning **Web development**
 
-- 📫 How to reach me **amankumargrd56@gmail.com**
+- 📫 How to reach me **amangrd8@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/drive/folders/1WS2YabucQ1SLe7g8KIJWk84ujmc1OgDP](https://drive.google.com/drive/folders/1WS2YabucQ1SLe7g8KIJWk84ujmc1OgDP)
 
