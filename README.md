@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Web development**
 
-- 📫 How to reach me **amangrd8@gmail.com**
+- 📫 How to reach me **amankumargrd56@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/drive/folders/1WS2YabucQ1SLe7g8KIJWk84ujmc1OgDP](https://drive.google.com/drive/folders/1WS2YabucQ1SLe7g8KIJWk84ujmc1OgDP)
 
