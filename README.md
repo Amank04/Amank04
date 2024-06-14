@@ -2,9 +2,7 @@
 <h3 align="center">I am a 2nd-year B.Tech student at Cluster Innovation Centre, Delhi University, majoring in Information Technology and mathematical Innovation(I.T & M.I). Passionate ❤ about tech and math, eager to learn and grow. Let's connect!</h3>
 
 
-- 🔭 I’m currently working on **LightsOut** project.
-
-- 🌱 I’m currently learning **Web development**
+- 🌱 I’m currently learning **React.js**
 
 - 📫 How to reach me **amankumargrd56@gmail.com**
 
